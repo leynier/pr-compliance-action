@@ -1,4 +1,4 @@
-name: 'PR Compliance Action'
+name: 'PR Compliance Action (PR with body check enabled input option)'
 description: >
   Action to check PR compliance on various aspects to improve maintainer QOL.
 branding:
